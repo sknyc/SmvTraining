@@ -10,7 +10,7 @@ By forking this project and commiting changes to user project, we can help with 
   * Create a github account.
   * Fork this project (do **NOT** just clone it) into your own github account.
   * Clone the forked project into local machine.
-  * Create an issue for this task
+  * Create an issue for this task (Is this only possible in the enterprise version? Don't see it in the free version)
   * Make some changes on this readme file on your local project dir, commit the change, and push (no need for pull request)
   * Close the issue for this task. All the following tasks need to have an "issue" created
 2. Follow [Smv User Guide - Installation](https://github.com/TresAmigosSD/SMV/blob/master/docs/user/smv_install.md) to setup SMV
